@@ -1,6 +1,6 @@
 {
   "name": "@financial-times/n-lambda",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "main.js",
   "dependencies": {
     "@financial-times/n-logger": "^5.0.0",
