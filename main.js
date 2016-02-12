@@ -9,6 +9,7 @@ var λ = require('apex.js');
 // Useful stuff
 λ.logger = require('@financial-times/n-logger').default;
 λ.metrics = require('next-metrics');
+λ.raven = require('@financial-times/n-raven-wrapper');
 
 if (!GLOBAL.fetch) {
 	GLOBAL.fetch = require('node-fetch');
