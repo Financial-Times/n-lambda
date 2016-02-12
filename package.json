@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "main.js",
   "dependencies": {
-    "": "git://github.com/financial-times/n-logger",
+    "@financial-times/n-logger": "^5.0.0",
     "apex.js": "^1.1.0",
     "es6-promise": "^3.0.2",
     "next-metrics": "^1.20.1",
