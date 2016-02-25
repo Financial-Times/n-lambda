@@ -13,6 +13,6 @@ var λ = require('apex.js');
 λ.logger = require('@financial-times/n-logger').default;
 λ.raven = require('@financial-times/n-raven-wrapper');
 
-λ.info({ event: 'LAMBDA_START', nodeVersion: process.version });
+λ.logger.info({ event: 'LAMBDA_START', nodeVersion: process.version });
 
 module.exports = λ;
