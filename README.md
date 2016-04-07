@@ -1,5 +1,5 @@
 # n-lambda
-Like ft-next-express, but for λ
+Like n-express, but for λ
 
 ## Usage
 
