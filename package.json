@@ -5,7 +5,7 @@
   "dependencies": {
     "@financial-times/n-logger": "^5.0.0",
     "@financial-times/n-raven": "^2.0.0",
-    "apex.js": "^1.1.0",
+    "apex.js": "^2.0.0",
     "aws-sdk": "^2.7.10",
     "denodeify": "^1.2.1",
     "es6-promise": "^3.0.2",
